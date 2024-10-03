@@ -23,3 +23,5 @@
 /home/telaport/Documents/MonoGameProjects/FirstProject/obj/Debug/net8.0/FirstProject.pdb
 /home/telaport/Documents/MonoGameProjects/FirstProject/obj/Debug/net8.0/FirstProject.genruntimeconfig.cache
 /home/telaport/Documents/MonoGameProjects/FirstProject/obj/Debug/net8.0/ref/FirstProject.dll
+/home/telaport/Documents/MonoGameProjects/FirstProject/bin/Debug/net8.0/Content/ball.xnb
+/home/telaport/Documents/MonoGameProjects/FirstProject/obj/Debug/net8.0/FirstProject.sourcelink.json
